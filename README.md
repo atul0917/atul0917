@@ -15,6 +15,16 @@
 
 ---
 
+### 📚 Academics
+
+| Education Level | Institution | Year | Performance |
+|-----------------|-------------|------|-------------|
+| B.Tech (CSE) | G.L. Bajaj Institute of Technology and Management | 2021 – 2025 | CGPA: 8.0 |
+| 12th (Intermediate) | Little Flower School, Varanasi | 2019 – 2021 | 76% |
+| 10th (Secondary) | Sunbeam School, Mau | 2018 – 2019 | 88.5% |
+
+---
+
 ### 🔨 Projects
 
 | Name | Description | Tech Stack |
